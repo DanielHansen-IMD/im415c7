@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: Welcome
 layout: layout.html
 eleventyNavigation:
     key: Home
